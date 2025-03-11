@@ -10,5 +10,7 @@ namespace ModelLayer.Model
     {
         public string key { get; set; }
         public string value { get; set; }
+        public string firstName { get; set; }
+        public string lastName { get; set; }
     }
 }
