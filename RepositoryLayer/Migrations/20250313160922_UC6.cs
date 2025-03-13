@@ -4,7 +4,7 @@
 
 namespace RepositoryLayer.Migrations
 {
-    public partial class UC5 : Migration
+    public partial class UC6 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
